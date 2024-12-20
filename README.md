@@ -1,3 +1,4 @@
+Below is the original readme for vscodium.
 <div id="vscodium-logo" align="center">
     <br />
     <img src="./icons/stable/codium_cnl.svg" alt="VSCodium Logo" width="200"/>
